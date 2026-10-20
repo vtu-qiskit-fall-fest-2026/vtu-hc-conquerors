@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Conquerors** · Team ID `VTU-QFF-HC-0189` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Conquerors)
+[⬆ Back to Top](#conquerors)
 
 </div>
